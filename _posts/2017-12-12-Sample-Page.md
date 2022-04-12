@@ -1,6 +1,6 @@
 ---
 title: Write-Up | Test
-published: false
+published: true
 ---
 
 Text can be **bold**, _italic_, ~~strikethrough~~ or `keyword`.
