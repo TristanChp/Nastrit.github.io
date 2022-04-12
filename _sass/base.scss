@@ -155,7 +155,7 @@ pre {
   border: 1px solid rgba(255, 255, 255, 0.15);
   padding: 10px;
   font-size: 16px;
-  color: #b5e853;
+  color: hwb(0 5% 13%);
   border-radius: 2px;
   text-wrap: normal;
   overflow: auto;
@@ -189,8 +189,8 @@ td {
 hr {
   height: 0;
   border: 0;
-  border-bottom: 1px dashed #b5e853;
-  color: #b5e853;
+  border-bottom: 1px dashed hwb(0 5% 13%);
+  color: hwb(0 5% 13%);
 }
 
 /* Buttons
